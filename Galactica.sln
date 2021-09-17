@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galactica", "Galactica.csproj", "{49C38442-7391-403A-A434-1620045A7531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C38442-7391-403A-A434-1620045A7531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C38442-7391-403A-A434-1620045A7531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C38442-7391-403A-A434-1620045A7531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C38442-7391-403A-A434-1620045A7531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BE295E5-E62D-487F-AF5C-AC3334C0CA6F}
+	EndGlobalSection
+EndGlobal
